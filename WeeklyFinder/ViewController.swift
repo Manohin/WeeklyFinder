@@ -3,7 +3,6 @@
 //  WeeklyFinder
 //
 //  Created by Alexey Manokhin on 23.08.2022.
-//
 
 import UIKit
 
@@ -17,5 +16,6 @@ class ViewController: UIViewController {
     
     @IBAction func findDay(_ sender: UIButton) {
     }
+    
 }
 
